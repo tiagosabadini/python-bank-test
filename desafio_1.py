@@ -58,7 +58,7 @@ def operacao():
                 if item["operation"] == "S":
                     withdrawal_count += 1
             
-            if withdrawal_count >= 3:
+            if withdrawal_count >= WITHDRAWAL_DAY_LIMIT:
                 input(f"O limite diário de {WITHDRAWAL_DAY_LIMIT} foi atingido. Entre em contato com seu gerente.")
                 continue
 
