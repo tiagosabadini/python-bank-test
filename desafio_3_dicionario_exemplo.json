@@ -1,0 +1,41 @@
+{
+    "099": {
+        "dados_pessoais": {
+            "nome": "Tiago",
+            "cpf": "099",
+            "data_nascimento": "06",
+            "endereco": "Serra",
+            "criado_em": "2025-03-12 11:42:33",
+            "atualizado_em": "2025-03-12 11:43:00"
+        },
+        "contas_correntes": {
+            "1": {
+                "numero_conta": 1,
+                "agencia": "0001",
+                "saldo": 300.0
+            },
+            "2": {
+                "numero_conta": 2,
+                "agencia": "0001",
+                "saldo": 0
+            }
+        }
+    },
+    "065": {
+        "dados_pessoais": {
+            "nome": "João Gabriel",
+            "cpf": "065",
+            "data_nascimento": "15",
+            "endereco": "Vitória",
+            "criado_em": "2025-03-12 11:43:48",
+            "atualizado_em": "2025-03-12 11:43:48"
+        },
+        "contas_correntes": {
+            "3": {
+                "numero_conta": 3,
+                "agencia": "0001",
+                "saldo": 150.0
+            }
+        }
+    }
+}
